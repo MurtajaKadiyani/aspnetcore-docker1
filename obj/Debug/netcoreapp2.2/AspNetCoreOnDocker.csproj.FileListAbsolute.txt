@@ -1,0 +1,5 @@
+C:\Users\Murtaja-Tassu\source\repos\AspNetCoreOnDocker\AspNetCoreOnDocker\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Murtaja-Tassu\source\repos\AspNetCoreOnDocker\AspNetCoreOnDocker\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Murtaja-Tassu\source\repos\AspNetCoreOnDocker\AspNetCoreOnDocker\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Murtaja-Tassu\source\repos\AspNetCoreOnDocker\AspNetCoreOnDocker\obj\Debug\netcoreapp2.2\AspNetCoreOnDocker.AssemblyInfoInputs.cache
+C:\Users\Murtaja-Tassu\source\repos\AspNetCoreOnDocker\AspNetCoreOnDocker\obj\Debug\netcoreapp2.2\AspNetCoreOnDocker.AssemblyInfo.cs
